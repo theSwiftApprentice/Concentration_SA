@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Concentration_SA
-//
-//  Created by Marc Gidaszewski on 29.01.18.
-//  Copyright © 2018 The Swift Apprentice. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
