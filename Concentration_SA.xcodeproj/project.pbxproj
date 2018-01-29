@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E46EDAE8201F364700CB3703 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46EDAE7201F364700CB3703 /* AppDelegate.swift */; };
-		E46EDAEA201F364700CB3703 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46EDAE9201F364700CB3703 /* ViewController.swift */; };
+		E46EDAEA201F364700CB3703 /* ConcentrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46EDAE9201F364700CB3703 /* ConcentrationViewController.swift */; };
 		E46EDAED201F364700CB3703 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E46EDAEB201F364700CB3703 /* Main.storyboard */; };
 		E46EDAEF201F364700CB3703 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E46EDAEE201F364700CB3703 /* Assets.xcassets */; };
 		E46EDAF2201F364700CB3703 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E46EDAF0201F364700CB3703 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 /* Begin PBXFileReference section */
 		E46EDAE4201F364700CB3703 /* Concentration_SA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration_SA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E46EDAE7201F364700CB3703 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E46EDAE9201F364700CB3703 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E46EDAE9201F364700CB3703 /* ConcentrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationViewController.swift; sourceTree = "<group>"; };
 		E46EDAEC201F364700CB3703 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E46EDAEE201F364700CB3703 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E46EDAF1201F364700CB3703 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E46EDAF9201F4A5200CB3703 /* Supporting Files */,
-				E46EDAE9201F364700CB3703 /* ViewController.swift */,
+				E46EDAE9201F364700CB3703 /* ConcentrationViewController.swift */,
 				E46EDAFC201F4FED00CB3703 /* Concentration.swift */,
 				E46EDAFE201F501900CB3703 /* Card.swift */,
 				E46EDAEB201F364700CB3703 /* Main.storyboard */,
@@ -150,7 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E46EDAEA201F364700CB3703 /* ViewController.swift in Sources */,
+				E46EDAEA201F364700CB3703 /* ConcentrationViewController.swift in Sources */,
 				E46EDAE8201F364700CB3703 /* AppDelegate.swift in Sources */,
 				E46EDAFD201F4FED00CB3703 /* Concentration.swift in Sources */,
 				E46EDAFF201F501900CB3703 /* Card.swift in Sources */,
