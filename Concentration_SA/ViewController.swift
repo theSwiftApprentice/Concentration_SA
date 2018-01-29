@@ -1,17 +1,11 @@
 import UIKit
 
-class ViewController: UIViewController {
+class ConcentrationVC: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    @IBOutlet var cardButtons: [UIButton]!
+    @IBOutlet weak var flipCountLabel: UILabel!
+    @IBAction func newGameButtonPressed(_ sender: UIButton) {
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
+    
 }
 
